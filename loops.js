@@ -24,12 +24,6 @@ function forLoop (array) {
 }                          */
 
 
-function whileLoop(number) {
-  while (number > 0) {
-    console.log(--number)
-  }
-}
-
 function whileLoop(n) {
   let countdown = n;
   while (countdown > 0) {
