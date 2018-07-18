@@ -21,9 +21,7 @@ function forLoop (array) {
 
 /* while ([condition]) {
   [loopBody]
-}
-
-*/
+}                          */
 
 
 
