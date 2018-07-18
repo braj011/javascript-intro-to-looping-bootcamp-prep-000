@@ -1,3 +1,9 @@
+/*
+for ([initialization]; [condition]; [iteration]) {
+  [loopBody]
+}                      */ 
+
+
 function forLoop (array) {
   for (let i = 0, i < 25, )
   
