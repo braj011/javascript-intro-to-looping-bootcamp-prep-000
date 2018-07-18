@@ -23,7 +23,7 @@ function forLoop (array) {
   [loopBody]
 }                          */
 
-number = 100
+
 function whileLoop(number) {
   while (number > 0) {
     console.log(--number)
