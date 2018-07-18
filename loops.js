@@ -48,6 +48,7 @@ do {
   console.log('doo-bee-doo-bee-doo')
 } while (maybeTrue());
 
+*****   With do, we can be sure that the body will run!  ***
 
 /* 
 
