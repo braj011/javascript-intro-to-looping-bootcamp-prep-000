@@ -50,8 +50,11 @@ do {
 
 *****   With do, we can be sure that the body will run!  ***
 
-/* 
+*/ 
 
+function doWhileLoop(array) {
+  
+}
 
 
 
