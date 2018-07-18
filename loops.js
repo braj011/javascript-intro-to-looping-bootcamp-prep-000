@@ -5,7 +5,7 @@ for ([initialization]; [condition]; [iteration]) {
   - separated out by semi colons
   - triple === for an equality check
   
-  - array.push is used here to add 
+  - array.push is used here to add / lilnk to the array
 }                      */ 
 
 function forLoop (array) {
