@@ -32,4 +32,11 @@ function whileLoop(n) {
   return "done";
 }
 
+/*
+do {
+  [loopBody];
+} while ([condition]);
+
+
+
    
