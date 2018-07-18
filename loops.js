@@ -6,7 +6,8 @@ for ([initialization]; [condition]; [iteration]) {
 
 function forLoop (array) {
   for (let i = 0, i < 25, i++) {
-    console.log("He")
+    if i ==1
+    console.log("I am ${i} ")
   }
   
   (var i = 1; i < 100; i++) {
